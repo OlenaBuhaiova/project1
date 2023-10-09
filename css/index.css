@@ -16,7 +16,7 @@ img {
 }
 
 h1 {
-  color: rgb(44, 5, 240);
+  color: rgb(40, 240, 5);
   /* Задаємо червоний колір тексту */
   text-decoration: underline;
   /* Додаємо підкреслення */
@@ -49,9 +49,9 @@ footer {
 
 .top-image {
   margin: 50px auto;
-  border: 5px solid red;
+  border: 5px solid rgb(0, 255, 179);
   padding: 5px;
   width: 50%;
   border-radius: 50%;
-  box-shadow: 0 0 20px purple; /* Горизонтальний зсув: 0, Вертикальний зсув: 0, Розмір тіні: 20px, Колір тіні: фіолетовий */
+  box-shadow: 0 0 20px rgb(75, 0, 128); /* Горизонтальний зсув: 0, Вертикальний зсув: 0, Розмір тіні: 20px, Колір тіні: фіолетовий */
 }
